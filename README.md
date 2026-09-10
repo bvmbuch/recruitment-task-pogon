@@ -53,7 +53,7 @@ Największym ograniczeniem jest jednak sytuacja, w której nie mam dostępu do d
 
 ---
 
-Poniższe wykresy dołączam jako przykład zastosowania opisanego podejścia na innych danych (nie na danych z tego zadania).
+Poniższe wykresy dołączam jako przykład zastosowania opisanego podejścia.
 
 ![Zawodnik na tle innych — aspekty gry](images/zadanie2_1.png)
 
