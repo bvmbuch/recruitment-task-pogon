@@ -1,6 +1,6 @@
 # recruitment-task-pogon
 
-Rozwiązanie zadania rekrutacyjnego na staż analityka danych w Pogoni Grodzisk Mazowiecki. Repozytorium zawiera odpowiedzi na dwa pytania: obliczenie różnicy xG względem stanu meczu (kod w `zadanie1.ipynb`) oraz opis podejścia do oceny zawodnika na wahadłowego.
+Rozwiązanie zadania rekrutacyjnego.
 
 ## Zadanie 1 — różnica xG wg stanu meczu
 
